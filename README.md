@@ -15,12 +15,12 @@ The dataset used in this project simulates sales data collected from multiple re
 To effectively present the insights, the following visualizations were created:
 
 ### 1. Sales Trends Over Time (Line Chart)
-![Monthly Sales Trends](Images/Monthly%20Sales%20trends.png)
+![Monthly sales trends](Images/Monthly%20sales%20trends.png)
 - This chart tracks total sales over time, helping businesses identify seasonal patterns and fluctuations.
 - Allows executives to adjust inventory and marketing strategies based on peak and low seasons.
 
 ### 2. Top-Selling Products and Categories (Bar Chart)
-![Profit Margins Vs Top Selling Products](Images/Profit%20Margins%20Vs%20Top%20Selling%20Products.png)
+![Profits Margins Vs Top selling Products](Images/Profits%20Margins%20Vs%20Top%20selling%20Products.png)
 - Displays the best-selling products and categories based on revenue.
 - Helps businesses focus on high-performing products and optimize stock levels.
 
